@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-bMb1zcobTg)
-- Live Site URL: [Add live site URL here](https://qr-code-component-gold-pi.vercel.app/)
+- Solution URL: [click here:](https://www.frontendmentor.io/solutions/qr-code-component-bMb1zcobTg)
+- Live Site URL: [click here:](https://qr-code-component-gold-pi.vercel.app/)
 
 ## My process
 
@@ -35,6 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Mobile-first workflow
 - Git
+- Vercel
 
 
 ### Useful resources
