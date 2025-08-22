@@ -1,0 +1,37 @@
+
+body {
+    background-color: #d6e2f0;
+    font-family: Outfit;
+}
+
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    max-width: 25rem;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px; 
+}
+
+.card p {
+    color: #68778D;
+    font-size: 15px;
+    text-align: center;
+}
+
+.card h1 {
+    color: #1F314F;
+    text-align: center;
+}
